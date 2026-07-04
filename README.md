@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A4A,100:9E2A2F&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=F5F5F0&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E6F,50:E23636,100:0B0B0C&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=F5F5F0&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9E2A2F&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-> ### ★ "QA Engineer in training — I break things on purpose, so your users never have to."
+> ### 🕸️ "QA Engineer in training — I break things on purpose, so your users never have to."
 
 <br/>
 
-## ★ About Me
+## 🕷️ About Me
 
 I'm Naveen Prabu, a final-year B.Tech Information Technology student at Sri Shakthi Institute of Engineering and Technology, Coimbatore — and, more relevantly to this page, someone who has decided that **testing is not the fallback plan for people who "couldn't become developers."** It's a discipline of its own: precision over speed, skepticism over assumption, and protecting the person on the other end of the screen who never asked to debug your app for you.
 
@@ -24,7 +24,7 @@ If you're a recruiter: I'm looking for an entry-level QA / Manual Testing role. 
 
 <br/>
 
-## ★ Currently Leveling Up
+## 🕷️ Currently Leveling Up
 
 This isn't a finished skill list — it's a live roadmap.
 
@@ -42,38 +42,38 @@ SDET-style Automation Suite     [███░░░░░░░░░░░░�
 
 <br/>
 
-## ★ Tech Stack & Tools
+## 🕷️ Tech Stack & Tools
 
 **Testing & QA**
 
-<img src="https://img.shields.io/badge/Manual_Testing-1B2A4A?style=for-the-badge&logo=testinglibrary&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Test_Case_Design-1B2A4A?style=for-the-badge&logo=checkmarx&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Jira-1B2A4A?style=for-the-badge&logo=jira&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/SQL-1B2A4A?style=for-the-badge&logo=postgresql&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Manual_Testing-1B3F8C?style=for-the-badge&logo=testinglibrary&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Test_Case_Design-1B3F8C?style=for-the-badge&logo=checkmarx&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Jira-1B3F8C?style=for-the-badge&logo=jira&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/SQL-1B3F8C?style=for-the-badge&logo=postgresql&logoColor=F5F5F0" />
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-9E2A2F?style=for-the-badge&logo=python&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/JavaScript-9E2A2F?style=for-the-badge&logo=javascript&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/HTML5-9E2A2F?style=for-the-badge&logo=html5&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/CSS3-9E2A2F?style=for-the-badge&logo=css3&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Python-E23636?style=for-the-badge&logo=python&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/JavaScript-E23636?style=for-the-badge&logo=javascript&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/HTML5-E23636?style=for-the-badge&logo=html5&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/CSS3-E23636?style=for-the-badge&logo=css3&logoColor=F5F5F0" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-C9CDD3?style=for-the-badge&logo=git&logoColor=1B2A4A" />
-<img src="https://img.shields.io/badge/GitHub-C9CDD3?style=for-the-badge&logo=github&logoColor=1B2A4A" />
-<img src="https://img.shields.io/badge/Excel-C9CDD3?style=for-the-badge&logo=microsoftexcel&logoColor=1B2A4A" />
-<img src="https://img.shields.io/badge/Figma-C9CDD3?style=for-the-badge&logo=figma&logoColor=1B2A4A" />
-<img src="https://img.shields.io/badge/Photoshop-C9CDD3?style=for-the-badge&logo=adobephotoshop&logoColor=1B2A4A" />
+<img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=E23636" />
+<img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Excel-0B0B0C?style=for-the-badge&logo=microsoftexcel&logoColor=1B3F8C" />
+<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=E23636" />
+<img src="https://img.shields.io/badge/Photoshop-0B0B0C?style=for-the-badge&logo=adobephotoshop&logoColor=1B3F8C" />
 
 **In Progress — Automation Track**
 
-<img src="https://img.shields.io/badge/Selenium_WebDriver-22335C?style=for-the-badge&logo=selenium&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Python_Automation-22335C?style=for-the-badge&logo=python&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Selenium_WebDriver-1B3F8C?style=for-the-badge&logo=selenium&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Python_Automation-E23636?style=for-the-badge&logo=python&logoColor=F5F5F0" />
 
 <br/>
 
-## ★ Featured Case Study — OrangeHRM Manual Testing Project
+## 🕷️ Featured Case Study — OrangeHRM Manual Testing Project
 
 Most portfolios show finished code. This one shows finished **scrutiny.**
 
@@ -97,7 +97,7 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/OrangeHRM-Manual-Testing-Project">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-9E2A2F?style=for-the-badge&logo=github&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-E23636?style=for-the-badge&logo=github&logoColor=F5F5F0" />
 </a>
 
 </div>
@@ -106,27 +106,27 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <br/>
 
-## ★ GitHub Stats & Activity
+## 🕷️ GitHub Stats & Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabuuu-afk&show_icons=true&theme=transparent&hide_border=true&title_color=9E2A2F&icon_color=9E2A2F&text_color=1B2A4A" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=9E2A2F&fire=9E2A2F&currStreakLabel=1B2A4A&sideLabels=1B2A4A&dates=C9CDD3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabuuu-afk&show_icons=true&theme=transparent&hide_border=true&title_color=E23636&icon_color=E23636&text_color=1B3F8C" />
+<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=1B3F8C&sideLabels=1B3F8C&dates=888888" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1B2A4A&line=9E2A2F&point=9E2A2F&area=true&area_color=C9CDD3" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1B3F8C&line=E23636&point=E23636&area=true&area_color=1B3F8C" width="98%" />
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prabuuu-afk/prabuuu-afk/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://github.com/prabuuu-afk/prabuuu-afk/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=1B2A4A&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=E23636&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -134,7 +134,7 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <br/>
 
-## ★ Certifications
+## 🕷️ Certifications
 
 | Certification | Provider | Date |
 |---|---|---|
@@ -145,7 +145,7 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <br/>
 
-## ★ QA Philosophy
+## 🕷️ QA Philosophy
 
 > "Untested code is a hypothesis. A test case is how you find out if you were wrong before your users do."
 
@@ -156,18 +156,18 @@ A few things I hold to:
 
 <br/>
 
-## ★ Let's Connect
+## 🕷️ Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://img.shields.io/badge/GitHub-1B2A4A?style=for-the-badge&logo=github&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=F5F5F0" />
 </a>
 <a href="https://www.linkedin.com/in/naveen-prabu-p-8b4a78413/">
-  <img src="https://img.shields.io/badge/LinkedIn-9E2A2F?style=for-the-badge&logo=linkedin&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/LinkedIn-1B3F8C?style=for-the-badge&logo=linkedin&logoColor=F5F5F0" />
 </a>
 <a href="mailto:naveenprabupanneer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-C9CDD3?style=for-the-badge&logo=gmail&logoColor=1B2A4A" />
+  <img src="https://img.shields.io/badge/Email-E23636?style=for-the-badge&logo=gmail&logoColor=F5F5F0" />
 </a>
 
 </div>
@@ -176,11 +176,11 @@ A few things I hold to:
 
 <div align="center">
 
-★
+🕸️
 
 <sub>Every bug I find is one your users never will.</sub>
 
-<img src="https://capsule-render.vercel.co/api?type=waving&color=0:9E2A2F,100:1B2A4A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,50:E23636,100:0B2E6F&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -192,15 +192,18 @@ A few things I hold to:
 **Username:** All widgets above already use `prabuuu-afk`. If this README is ever reused for a different GitHub account, swap that string everywhere it appears (typing SVG link, stats card, streak stats, activity graph, snake image paths, visitor counter).
 
 **Snake animation (contribution grid):**
-This section expects a GitHub Actions workflow that generates the snake SVG and pushes it to an `output` branch. To enable it:
-1. Create `.github/workflows/snake.yml` in the `prabuuu-afk/prabuuu-afk` profile repo with the [Platane/snk](https://github.com/Platane/snk) action.
-2. Have the workflow output to a branch named `output` (or update the `<picture>` `srcset`/`src` paths above to match whatever branch/filename you choose).
-3. Run the workflow once manually (or wait for its schedule) so the SVG file exists before the README tries to load it.
-If this workflow is never set up, the `<picture>` tag simply renders as a broken image — it does not affect the layout of any other section.
+This section expects a GitHub Actions workflow that generates the snake SVG and pushes it to an `output` branch. The image tags above now point to `raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/...svg` — this is the correct raw-file URL format. (A `github.com/.../blob/...` URL, which was used in an earlier draft, loads an HTML page instead of an image and always shows as broken — that was the bug.)
+1. Confirm `.github/workflows/snake.yml` exists in the `prabuuu-afk/prabuuu-afk` repo using the [Platane/snk](https://github.com/Platane/snk) action.
+2. Confirm the workflow has actually run at least once (check the **Actions** tab for a green run) and that an `output` branch exists in the repo with `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg` inside it.
+3. If the branch/files don't exist yet, the image will show broken until the workflow runs successfully.
+
+**Streak stats fix:** The old `github-readme-streak-stats.herokuapp.com` host is deprecated (Heroku shut down its free tier) and reliably shows as a broken image now. This version uses the maintained replacement, `streak-stats.demolab.com`, with the same query parameters.
+
+**Footer fix:** An earlier draft had a typo — `capsule-render.vercel.co` instead of `.vercel.app` — which broke the footer wave image. Corrected here.
 
 **Graceful degradation:** Every stats widget (github-readme-stats, streak-stats, activity-graph, snake, visitor counter) is a standalone hosted image. If any one service is down or rate-limited, only that single image fails to load — no other section depends on it, and the page layout stays intact.
 
-**Badges:** All badges use shields.io with `style=for-the-badge` consistently. Colors map to the muted palette: `1B2A4A` (navy), `9E2A2F` (muted red), `C9CDD3` (silver), `22335C` (secondary navy for "in progress" items).
+**Badges:** All badges use shields.io with `style=for-the-badge` consistently. Spiderman-inspired palette: `E23636` (web-red), `1B3F8C` (deep blue), `0B0B0C` (black), `F5F5F0` (off-white text).
 
 **No fabricated content:** Only the OrangeHRM project is presented as a case study, per the source information. The "more projects coming" line is intentional, not a placeholder to delete — remove it once a second real project exists.
 
