@@ -1,0 +1,18 @@
+name: generate stats card
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: jstrieb/github-stats@master
+        with:
+          github_username: prabuuu-afk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
