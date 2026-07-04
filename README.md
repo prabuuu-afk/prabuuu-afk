@@ -110,7 +110,6 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prabuuu-afk&show_icons=true&theme=transparent&hide_border=true&title_color=E23636&icon_color=E23636&text_color=1B3F8C" />
 <img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=1B3F8C&sideLabels=1B3F8C&dates=888888" />
 
 <br/>
@@ -198,6 +197,8 @@ This section expects a GitHub Actions workflow that generates the snake SVG and 
 3. If the branch/files don't exist yet, the image will show broken until the workflow runs successfully.
 
 **Streak stats fix:** The old `github-readme-streak-stats.herokuapp.com` host is deprecated (Heroku shut down its free tier) and reliably shows as a broken image now. This version uses the maintained replacement, `streak-stats.demolab.com`, with the same query parameters.
+
+**Stats card — removed by design:** The main "overview" stats card (`github-readme-stats.vercel.app`) was dropped from this README entirely. That project's shared public instance has a documented history of being rate-limited or paused, and self-hosting it requires a GitHub Actions setup. Rather than depend on either, this README keeps only the widgets that work with zero setup and no live dependency issues: streak stats, the contribution activity graph, and the snake animation. If you want to add a stats card back later, `streak-stats.demolab.com` and `github-readme-activity-graph.vercel.app` (both already in use above) already cover most of what a stats card would show — total contributions, streaks, and a visual activity trend.
 
 **Footer fix:** An earlier draft had a typo — `capsule-render.vercel.co` instead of `.vercel.app` — which broke the footer wave image. Corrected here.
 
