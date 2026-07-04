@@ -118,13 +118,6 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=E23636&label=PROFILE+VIEWS" />
 
 </div>
@@ -188,21 +181,17 @@ A few things I hold to:
 <details>
 <summary><sub>⚙️ Setup Notes (for repo owner — not part of the visible profile)</sub></summary>
 
-**Username:** All widgets above already use `prabuuu-afk`. If this README is ever reused for a different GitHub account, swap that string everywhere it appears (typing SVG link, stats card, streak stats, activity graph, snake image paths, visitor counter).
+**Username:** All widgets above already use `prabuuu-afk`. If this README is ever reused for a different GitHub account, swap that string everywhere it appears (typing SVG link, streak stats, activity graph, visitor counter).
 
-**Snake animation (contribution grid):**
-This section expects a GitHub Actions workflow that generates the snake SVG and pushes it to an `output` branch. The image tags above now point to `raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/...svg` — this is the correct raw-file URL format. (A `github.com/.../blob/...` URL, which was used in an earlier draft, loads an HTML page instead of an image and always shows as broken — that was the bug.)
-1. Confirm `.github/workflows/snake.yml` exists in the `prabuuu-afk/prabuuu-afk` repo using the [Platane/snk](https://github.com/Platane/snk) action.
-2. Confirm the workflow has actually run at least once (check the **Actions** tab for a green run) and that an `output` branch exists in the repo with `github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg` inside it.
-3. If the branch/files don't exist yet, the image will show broken until the workflow runs successfully.
+**Snake animation — removed by design:** This required a GitHub Actions workflow (using the Platane/snk action) to generate two SVG files and push them to an `output` branch. That workflow never completed a successful run, so the branch/files never existed, which is why the image stayed broken (confirmed via a direct 404 on the raw file URL). Rather than keep debugging the Actions setup, it's been dropped from this README. If you want it back later: set up `.github/workflows/snake.yml` in `prabuuu-afk/prabuuu-afk`, make sure Actions are enabled for the repo (forks have them disabled by default — check for an enable-workflows banner on the Actions tab), manually trigger the workflow once via "Run workflow," and confirm an `output` branch with the two `.svg` files actually appears before adding the image tags back in.
 
 **Streak stats fix:** The old `github-readme-streak-stats.herokuapp.com` host is deprecated (Heroku shut down its free tier) and reliably shows as a broken image now. This version uses the maintained replacement, `streak-stats.demolab.com`, with the same query parameters.
 
-**Stats card — removed by design:** The main "overview" stats card (`github-readme-stats.vercel.app`) was dropped from this README entirely. That project's shared public instance has a documented history of being rate-limited or paused, and self-hosting it requires a GitHub Actions setup. Rather than depend on either, this README keeps only the widgets that work with zero setup and no live dependency issues: streak stats, the contribution activity graph, and the snake animation. If you want to add a stats card back later, `streak-stats.demolab.com` and `github-readme-activity-graph.vercel.app` (both already in use above) already cover most of what a stats card would show — total contributions, streaks, and a visual activity trend.
+**Stats card — removed by design:** The main "overview" stats card (`github-readme-stats.vercel.app`) was dropped from this README entirely. That project's shared public instance has a documented history of being rate-limited or paused, and self-hosting it requires a GitHub Actions setup. Rather than depend on either, this README keeps only the widgets that work with zero setup and no live dependency issues: streak stats and the contribution activity graph. If you want a stats card back later, `streak-stats.demolab.com` and `github-readme-activity-graph.vercel.app` (both already in use above) already cover most of what a stats card would show — total contributions, streaks, and a visual activity trend.
 
 **Footer fix:** An earlier draft had a typo — `capsule-render.vercel.co` instead of `.vercel.app` — which broke the footer wave image. Corrected here.
 
-**Graceful degradation:** Every stats widget (github-readme-stats, streak-stats, activity-graph, snake, visitor counter) is a standalone hosted image. If any one service is down or rate-limited, only that single image fails to load — no other section depends on it, and the page layout stays intact.
+**Graceful degradation:** Every remaining widget (streak-stats, activity-graph, visitor counter) is a standalone hosted image. If any one service is down or rate-limited, only that single image fails to load — no other section depends on it, and the page layout stays intact.
 
 **Badges:** All badges use shields.io with `style=for-the-badge` consistently. Spiderman-inspired palette: `E23636` (web-red), `1B3F8C` (deep blue), `0B0B0C` (black), `F5F5F0` (off-white text).
 
