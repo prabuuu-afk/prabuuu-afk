@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2E6F,50:E23636,100:0B0B0C&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=F5F5F0&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,50:ED1C24,100:1E88E5&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E23636&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=ED1C24&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,7 +20,7 @@ I'm Naveen Prabu, a final-year B.Tech Information Technology student at Sri Shak
 
 Right now I test manually — deliberately, thoroughly, and with a written trail (test scenarios, test cases, execution logs, Jira tickets) to back up every claim I make about quality. I'm actively leveling that skill set up into **automation**, learning Python and Selenium WebDriver so the regression checks I currently run by hand can eventually run themselves while I go hunt for the bugs a script can't see.
 
-If you're a recruiter: I'm looking for an entry-level QA / Manual Testing role. If you're a hiring manager: the case study below is real work, not a tutorial screenshot. If you're a fellow tester: I'd genuinely like to hear how you structure your test suites.
+If you're a recruiter: I'm looking for an entry-level QA / Manual Testing role. If you're a hiring manager: the case studies below are real work, not tutorial screenshots. If you're a fellow tester: I'd genuinely like to hear how you structure your test suites.
 
 <br/>
 
@@ -38,7 +38,7 @@ Selenium WebDriver              [███████░░░░░░░░�
 SDET-style Automation Suite     [███░░░░░░░░░░░░░░░░░░░] Just getting started
 ```
 
-**Next milestones:** first end-to-end Selenium script → first automated regression suite on a demo app → contributing that suite back into a GitHub repo, same as the manual project below.
+**Next milestones:** first end-to-end Selenium script → first automated regression suite on a demo app → contributing that suite back into a GitHub repo, same as the manual projects below.
 
 <br/>
 
@@ -46,30 +46,30 @@ SDET-style Automation Suite     [███░░░░░░░░░░░░�
 
 **Testing & QA**
 
-<img src="https://img.shields.io/badge/Manual_Testing-1B3F8C?style=for-the-badge&logo=testinglibrary&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Test_Case_Design-1B3F8C?style=for-the-badge&logo=checkmarx&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Jira-1B3F8C?style=for-the-badge&logo=jira&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/SQL-1B3F8C?style=for-the-badge&logo=postgresql&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Manual_Testing-ED1C24?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Test_Case_Design-ED1C24?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-ED1C24?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-ED1C24?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-E23636?style=for-the-badge&logo=python&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/JavaScript-E23636?style=for-the-badge&logo=javascript&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/HTML5-E23636?style=for-the-badge&logo=html5&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/CSS3-E23636?style=for-the-badge&logo=css3&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Python-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-1E88E5?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-1E88E5?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1E88E5?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=E23636" />
-<img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Excel-0B0B0C?style=for-the-badge&logo=microsoftexcel&logoColor=1B3F8C" />
-<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=E23636" />
-<img src="https://img.shields.io/badge/Photoshop-0B0B0C?style=for-the-badge&logo=adobephotoshop&logoColor=1B3F8C" />
+<img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=ED1C24" />
+<img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-0B0B0C?style=for-the-badge&logo=microsoftexcel&logoColor=1E88E5" />
+<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=ED1C24" />
+<img src="https://img.shields.io/badge/Photoshop-0B0B0C?style=for-the-badge&logo=adobephotoshop&logoColor=1E88E5" />
 
 **In Progress — Automation Track**
 
-<img src="https://img.shields.io/badge/Selenium_WebDriver-1B3F8C?style=for-the-badge&logo=selenium&logoColor=F5F5F0" />
-<img src="https://img.shields.io/badge/Python_Automation-E23636?style=for-the-badge&logo=python&logoColor=F5F5F0" />
+<img src="https://img.shields.io/badge/Selenium_WebDriver-ED1C24?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Automation-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
 
 <br/>
 
@@ -97,12 +97,43 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/OrangeHRM-Manual-Testing-Project">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-E23636?style=for-the-badge&logo=github&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-ED1C24?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-*More projects are coming as I level up into automation — the next one on this page will have a `.py` file in it, not just a spreadsheet.*
+<br/>
+
+## 🕷️ Case Study — Tichi QA Intern Technical Assignment
+
+A timed, independent assignment — no walkthrough given, no modules pre-defined for me. I had to explore the application cold, decide what mattered, and deliver against a real deadline.
+
+I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In** flow, and **Forgot Password**. Rather than confirming the happy path and calling it done, I pushed on how each flow handled bad input, broken sequences, and edge conditions — which is where the real defects were hiding.
+
+**What I found and delivered:**
+- **8 real bugs** identified across the three modules, each logged with reproduction steps
+- **41 test cases** written and executed, landing at roughly an **80% pass rate**
+- A defect sheet with an **embedded screenshot** as visual proof for one of the logged issues
+- A **live Jira ticket (TAP-1)** tracking the assignment
+- Full writeup and artifacts published to GitHub, submitted on deadline
+
+| | |
+|---|---|
+| **Scope** | Sign Up · Sign In (2-page flow) · Forgot Password |
+| **Test cases** | 41 executed · ~80% pass rate |
+| **Bugs found** | 8, with reproduction steps and severity |
+| **Jira ticket** | TAP-1 (live) |
+| **Repo** | [Tichi-QA-Intern-Assignment](https://github.com/prabuuu-afk/Tichi-QA-Intern-Assignment) |
+
+<div align="center">
+
+<a href="https://github.com/prabuuu-afk/Tichi-QA-Intern-Assignment">
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-1E88E5?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+*More case studies are coming as I level up into automation — the next one on this page will have a `.py` file in it, not just a spreadsheet.*
 
 <br/>
 
@@ -110,15 +141,15 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=E23636&fire=E23636&currStreakLabel=1B3F8C&sideLabels=1B3F8C&dates=888888" />
+<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=ED1C24&fire=ED1C24&currStreakLabel=1E88E5&sideLabels=1E88E5&dates=888888" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1B3F8C&line=E23636&point=E23636&area=true&area_color=1B3F8C" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5" width="98%" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=E23636&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=ED1C24&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -153,13 +184,13 @@ A few things I hold to:
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/naveen-prabu-p-8b4a78413/">
-  <img src="https://img.shields.io/badge/LinkedIn-1B3F8C?style=for-the-badge&logo=linkedin&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:naveenprabupanneer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E23636?style=for-the-badge&logo=gmail&logoColor=F5F5F0" />
+  <img src="https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -172,7 +203,7 @@ A few things I hold to:
 
 <sub>Every bug I find is one your users never will.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,50:E23636,100:0B2E6F&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED1C24,50:1E88E5,100:ED1C24&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -181,20 +212,19 @@ A few things I hold to:
 <details>
 <summary><sub>⚙️ Setup Notes (for repo owner — not part of the visible profile)</sub></summary>
 
-**Username:** All widgets above already use `prabuuu-afk`. If this README is ever reused for a different GitHub account, swap that string everywhere it appears (typing SVG link, streak stats, activity graph, visitor counter).
+**Username:** All widgets above use `prabuuu-afk`. If reused for a different account, swap that string everywhere it appears (typing SVG, streak stats, activity graph, visitor counter, both case-study repo links).
 
-**Snake animation — removed by design:** This required a GitHub Actions workflow (using the Platane/snk action) to generate two SVG files and push them to an `output` branch. That workflow never completed a successful run, so the branch/files never existed, which is why the image stayed broken (confirmed via a direct 404 on the raw file URL). Rather than keep debugging the Actions setup, it's been dropped from this README. If you want it back later: set up `.github/workflows/snake.yml` in `prabuuu-afk/prabuuu-afk`, make sure Actions are enabled for the repo (forks have them disabled by default — check for an enable-workflows banner on the Actions tab), manually trigger the workflow once via "Run workflow," and confirm an `output` branch with the two `.svg` files actually appears before adding the image tags back in.
+**Known-broken widgets deliberately left out:**
+- The `github-readme-stats.vercel.app` overview stats card is not included — its shared public instance has a documented history of being rate-limited or paused, and self-hosting it requires a GitHub Actions setup.
+- The snake contribution animation is not included — it requires a GitHub Actions workflow (Platane/snk) that generates SVGs and pushes them to an `output` branch, which needs Actions enabled on the repo and a completed workflow run. Neither is present here to avoid a broken image.
+If you want either back later, both can be added — but confirm the underlying file/branch actually exists (test the raw image URL directly in a browser tab) before adding the tag to the README.
 
-**Streak stats fix:** The old `github-readme-streak-stats.herokuapp.com` host is deprecated (Heroku shut down its free tier) and reliably shows as a broken image now. This version uses the maintained replacement, `streak-stats.demolab.com`, with the same query parameters.
+**Widgets that are included** (streak-stats, activity-graph, visitor counter) all work with zero setup and no Actions dependency, so they're safe to keep as-is.
 
-**Stats card — removed by design:** The main "overview" stats card (`github-readme-stats.vercel.app`) was dropped from this README entirely. That project's shared public instance has a documented history of being rate-limited or paused, and self-hosting it requires a GitHub Actions setup. Rather than depend on either, this README keeps only the widgets that work with zero setup and no live dependency issues: streak stats and the contribution activity graph. If you want a stats card back later, `streak-stats.demolab.com` and `github-readme-activity-graph.vercel.app` (both already in use above) already cover most of what a stats card would show — total contributions, streaks, and a visual activity trend.
+**Footer/header gradients:** Use `capsule-render.vercel.app` (not `.vercel.co` — that's a typo that breaks the image).
 
-**Footer fix:** An earlier draft had a typo — `capsule-render.vercel.co` instead of `.vercel.app` — which broke the footer wave image. Corrected here.
+**Palette:** Spider-Man theme, saturated: `ED1C24` (web-red), `1E88E5` (web-blue), `0B0B0C` (black), white text. All badges use shields.io `style=for-the-badge` consistently.
 
-**Graceful degradation:** Every remaining widget (streak-stats, activity-graph, visitor counter) is a standalone hosted image. If any one service is down or rate-limited, only that single image fails to load — no other section depends on it, and the page layout stays intact.
-
-**Badges:** All badges use shields.io with `style=for-the-badge` consistently. Spiderman-inspired palette: `E23636` (web-red), `1B3F8C` (deep blue), `0B0B0C` (black), `F5F5F0` (off-white text).
-
-**No fabricated content:** Only the OrangeHRM project is presented as a case study, per the source information. The "more projects coming" line is intentional, not a placeholder to delete — remove it once a second real project exists.
+**No fabricated content:** Only the two real, documented projects (OrangeHRM and Tichi) are presented as case studies. Other repos on the profile (course exercises, small scripts) aren't listed here since there isn't case-study-level detail behind them — GitHub's own "Popular repositories" panel already surfaces those separately below the README.
 
 </details>
