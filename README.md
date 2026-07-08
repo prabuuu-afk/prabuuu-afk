@@ -122,7 +122,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 | **Scope** | Sign Up · Sign In (2-page flow) · Forgot Password |
 | **Test cases** | 41 executed · ~80% pass rate |
 | **Bugs found** | 8, with reproduction steps and severity |
-| **Jira ticket** | TAP-1 (live) |
+| **Jira ticket** | [TAP-1 (live)](https://naveenprabup.atlassian.net/browse/TAP-1) |
 | **Repo** | [Tichi-QA-Intern-Assignment](https://github.com/prabuuu-afk/Tichi-QA-Intern-Assignment) |
 
 <div align="center">
