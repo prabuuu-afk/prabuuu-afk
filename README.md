@@ -145,7 +145,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5&v=2" width="98%" />
 
 <br/><br/>
 
