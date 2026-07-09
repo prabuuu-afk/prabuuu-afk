@@ -141,7 +141,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=ED1C24&fire=ED1C24&currStreakLabel=1E88E5&sideLabels=1E88E5&dates=888888" />
+<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=ED1C24&fire=ED1C24&currStreakLabel=1E88E5&sideLabels=1E88E5&dates=888888&v=2" />
 
 <br/>
 
