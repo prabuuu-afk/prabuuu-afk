@@ -153,7 +153,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 
 </div>
 
-*(If any widget above is temporarily down, it fails as a broken image only — the rest of the profile holds its layout independently.)*
+<!--*(If any widget above is temporarily down, it fails as a broken image only — the rest of the profile holds its layout independently.)*-->
 
 <br/>
 
