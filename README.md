@@ -167,7 +167,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 
 <img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=ED1C24&fire=ED1C24&currStreakLabel=1E88E5&sideLabels=1E88E5&dates=888888&v=4" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=react-dark&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5&v=3" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=react-dark&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5&cache_seconds=1800&v=4" width="98%" />
 
 <br/><br/>
 
