@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,25:ED1C24,50:1E88E5,75:ED1C24,100:0B0B0C&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3161,25:FFFFFF,50:D22630,75:FFFFFF,100:0A3161&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=ED1C24&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D22630&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,50:1E88E5,100:ED1C24&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D22630,50:FFFFFF,100:0A3161&height=4&width=100%25" width="100%" />
 
 </div>
 
 <br/>
 
-> ### 🕸️ "QA Engineer in training — I break things on purpose, so your users never have to."
+> ### ★ "QA Engineer in training — I break things on purpose, so your users never have to."
 
 <br/>
 
-## 🕷️ About Me
+## ★ About Me
 
 I'm Naveen Prabu, a final-year B.Tech Information Technology student at Sri Shakthi Institute of Engineering and Technology, Coimbatore — and, more relevantly to this page, someone who has decided that **testing is not the fallback plan for people who "couldn't become developers."** It's a discipline of its own: precision over speed, skepticism over assumption, and protecting the person on the other end of the screen who never asked to debug your app for you.
 
@@ -25,12 +25,12 @@ Right now I test manually — deliberately, thoroughly, and with a written trail
 If you're a recruiter: I'm looking for an entry-level QA / Manual Testing role. If you're a hiring manager: the case studies below are real work, not tutorial screenshots. If you're a fellow tester: I'd genuinely like to hear how you structure your test suites.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,50:ED1C24,100:1E88E5&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:FFFFFF,100:D22630&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ Currently Leveling Up
+## ★ Currently Leveling Up
 
 This isn't a finished skill list — it's a live roadmap.
 
@@ -45,55 +45,55 @@ SDET-style Automation Suite     [███░░░░░░░░░░░░�
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/Solid_Ground-ED1C24?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/In_Progress-1E88E5?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Just_Started-0B0B0C?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Solid_Ground-D22630?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/In_Progress-0A3161?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Just_Started-808080?style=flat-square&logoColor=white" />
 </div>
 
 **Next milestones:** first end-to-end Selenium script → first automated regression suite on a demo app → contributing that suite back into a GitHub repo, same as the manual projects below.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,50:1E88E5,100:ED1C24&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D22630,50:FFFFFF,100:0A3161&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ Tech Stack & Tools
+## ★ Tech Stack & Tools
 
 **Testing & QA**
 
-<img src="https://img.shields.io/badge/Manual_Testing-ED1C24?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Test_Case_Design-1E88E5?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-ED1C24?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-1E88E5?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Manual_Testing-D22630?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Test_Case_Design-0A3161?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-D22630?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0A3161?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-ED1C24?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-1E88E5?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-ED1C24?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1E88E5?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-D22630?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0A3161?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-D22630?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0A3161?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-0B0B0C?style=for-the-badge&logo=git&logoColor=ED1C24" />
-<img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=1E88E5" />
-<img src="https://img.shields.io/badge/Excel-0B0B0C?style=for-the-badge&logo=microsoftexcel&logoColor=ED1C24" />
-<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=1E88E5" />
-<img src="https://img.shields.io/badge/Photoshop-0B0B0C?style=for-the-badge&logo=adobephotoshop&logoColor=ED1C24" />
+<img src="https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=D22630" />
+<img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-333333?style=for-the-badge&logo=microsoftexcel&logoColor=0A3161" />
+<img src="https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=D22630" />
+<img src="https://img.shields.io/badge/Photoshop-333333?style=for-the-badge&logo=adobephotoshop&logoColor=0A3161" />
 
 **In Progress — Automation Track**
 
-<img src="https://img.shields.io/badge/Selenium_WebDriver-ED1C24?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Python_Automation-1E88E5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium_WebDriver-D22630?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/Python_Automation-0A3161?style=for-the-badge&logo=python&logoColor=white" />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,50:ED1C24,100:1E88E5&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:FFFFFF,100:D22630&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ Featured Case Study — OrangeHRM Manual Testing Project
+## ★ Featured Case Study — OrangeHRM Manual Testing Project
 
 Most portfolios show finished code. This one shows finished **scrutiny.**
 
@@ -117,14 +117,14 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/OrangeHRM-Manual-Testing-Project">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-ED1C24?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-D22630?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-## 🕷️ Case Study — Tichi QA Intern Technical Assignment
+## ★ Case Study — Tichi QA Intern Technical Assignment
 
 A timed, independent assignment — no walkthrough given, no modules pre-defined for me. I had to explore the application cold, decide what mattered, and deliver against a real deadline.
 
@@ -148,7 +148,7 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/Tichi-QA-Intern-Assignment">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-1E88E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-0A3161?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -156,22 +156,14 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 *More case studies are coming as I level up into automation — the next one on this page will have a `.py` file in it, not just a spreadsheet.*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,50:1E88E5,100:ED1C24&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D22630,50:FFFFFF,100:0A3161&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ GitHub Stats & Activity
+## ★ GitHub Stats & Activity
 
 <div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=ED1C24&fire=ED1C24&currStreakLabel=1E88E5&sideLabels=1E88E5&dates=888888&cache_seconds=0&v=7" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=react-dark&hide_border=true&color=1E88E5&line=ED1C24&point=ED1C24&area=true&area_color=1E88E5&v=3" width="98%" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/github-contribution-grid-snake-dark.svg">
@@ -181,39 +173,39 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=ED1C24&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=D22630&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,50:ED1C24,100:1E88E5&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A3161,50:FFFFFF,100:D22630&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ Certifications
+## ★ Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Course_on_Python-LIVE_WIRE_%7C_Jul_2023-ED1C24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Course_on_Python-LIVE_WIRE_%7C_Jul_2023-D22630?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Webinar_on_Gen_AI-CIT_CRYPTERA_2024_%7C_Mar_2024-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webinar_on_Gen_AI-CIT_CRYPTERA_2024_%7C_Mar_2024-0A3161?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Intro_to_Prompt_Engineering-Simplilearn_%7C_Jan_2026-ED1C24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Intro_to_Prompt_Engineering-Simplilearn_%7C_Jan_2026-D22630?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Foundations_of_Prompt_Engineering-AWS_Skill_Builder_%7C_Jun_2026-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foundations_of_Prompt_Engineering-AWS_Skill_Builder_%7C_Jun_2026-0A3161?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Introduction_to_JIRA-Simplilearn_%7C_Jun_2026-ED1C24?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Introduction_to_JIRA-Simplilearn_%7C_Jun_2026-D22630?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Automation_Testing_for_Beginners-Simplilearn_%7C_Aug_2026-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation_Testing_for_Beginners-Simplilearn_%7C_Aug_2026-0A3161?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## 🕷️ QA Philosophy
+## ★ QA Philosophy
 
 > "Untested code is a hypothesis. A test case is how you find out if you were wrong before your users do."
 
@@ -223,23 +215,23 @@ A few things I hold to:
 - If a bug is easy to find, assume there are three harder ones hiding behind it.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ED1C24,50:1E88E5,100:ED1C24&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D22630,50:FFFFFF,100:0A3161&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🕷️ Let's Connect
+## ★ Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://img.shields.io/badge/GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/naveen-prabu-p-8b4a78413/">
-  <img src="https://img.shields.io/badge/LinkedIn-1E88E5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A3161?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:naveenprabupanneer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ED1C24?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D22630?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -248,11 +240,11 @@ A few things I hold to:
 
 <div align="center">
 
-🕸️
+★
 
 <sub>Every bug I find is one your users never will.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0C,25:ED1C24,50:1E88E5,75:ED1C24,100:0B0B0C&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3161,25:FFFFFF,50:D22630,75:FFFFFF,100:0A3161&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -261,17 +253,16 @@ A few things I hold to:
 <details>
 <summary><sub>⚙️ Setup Notes (for repo owner — not part of the visible profile)</sub></summary>
 
-**Username:** All widgets above use `prabuuu-afk`. If reused for a different account, swap that string everywhere it appears (typing SVG, streak stats, activity graph, visitor counter, snake image paths, both case-study repo links).
+**Username:** All widgets above use `prabuuu-afk`. If reused for a different account, swap that string everywhere it appears (typing SVG, visitor counter, snake image paths, both case-study repo links).
 
 **Snake animation:** Working — points to `raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/...svg` on the `output` branch, generated by the Platane/snk GitHub Action. If it ever breaks, check the Actions tab for a green run and confirm the `output` branch still has both `.svg` files.
 
-**Cache-busting:** Streak stats and activity graph both carry a `&v=3` query parameter. If either shows a stale/broken state again in the future (common with these shared community services), bump it to `&v=4`, `&v=5`, etc. — this forces GitHub's image cache (Camo) to fetch a fresh copy instead of re-serving an old cached error.
+**Streak stats and activity graph — deliberately removed:** Both `streak-stats.demolab.com` and `github-readme-activity-graph.vercel.app` failed repeatedly across multiple sessions — stuck/frozen data, timeouts, and outright failures to fetch contributions. These are free shared services with no uptime guarantee, and no combination of query parameters fixed the underlying instability. Rather than keep shipping another version that breaks again, they've been left out of this build entirely. The snake animation and visitor counter cover activity visually and numerically without that risk. If you want to try either widget again later, the last known-working query strings were:
+- Streak: `https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=D22630&fire=D22630&currStreakLabel=0A3161&sideLabels=0A3161&dates=888888`
+- Activity graph: `https://github-readme-activity-graph.vercel.app/graph?username=prabuuu-afk&theme=minimal&hide_border=true&color=0A3161&line=D22630&point=D22630&area=true&area_color=0A3161`
+Test either URL directly in a browser tab before adding it back — if it loads correctly there, it's likely safe to re-add; if not, the service is down again and adding it will just reintroduce the same problem.
 
-**Themes:** Streak stats uses `theme=radical` and the activity graph uses `theme=react-dark` — both are built-in high-saturation themes from their respective projects, layered with the red/blue color overrides for the Spider-Man palette.
-
-**Certifications as badges:** Converted from a plain table to shields.io badges for more color variety; content is unchanged (same four certifications, same providers, same dates).
-
-**Palette:** Spider-Man theme, high saturation: `ED1C24` (web-red), `1E88E5` (web-blue), `0B0B0C` (black), white text. Header/footer gradients now cycle black → red → blue → red → black for a richer, comic-accurate feel. Thin colored divider bars (`capsule-render` rect type) separate every major section for consistent color throughout the page, not just top and bottom.
+**Palette:** Captain America theme — Old Glory red `D22630`, Old Glory blue `0A3161`, white. Header/footer gradients cycle blue → white → red → white → blue; thin red-white-blue divider bars separate every major section.
 
 **Footer/header gradients:** Use `capsule-render.vercel.app` (not `.vercel.co` — that's a typo that breaks the image).
 
