@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0073CF,25:F9CC00,50:E3000F,75:F9CC00,100:0073CF&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:39FF14,50:008F11,75:39FF14,100:00FF41&height=180&section=header&text=Naveen%20Prabu%20P&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=E3000F&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=008F11&center=true&vCenter=true&width=700&lines=QA+Engineer+in+Training;Manual+Testing+%E2%86%92+Automation+Testing;Breaking+things+responsibly+since+2023;Certified+Bug+Hunter+%F0%9F%90%9B" alt="Typing SVG" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3000F,50:F9CC00,100:0073CF&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:008F11,50:39FF14,100:00FF41&height=4&width=100%25" width="100%" />
 
 </div>
 
 <br/>
 
-> ### 🦸 "QA Engineer in training — I break things on purpose, so your users never have to."
+> ### 🟢 `$ whoami` → "QA Engineer in training — I break things on purpose, so your users never have to."
 
 <br/>
 
-## 🦸 About Me
+## 🟢 About Me
 
 I'm Naveen Prabu, a final-year B.Tech Information Technology student at Sri Shakthi Institute of Engineering and Technology, Coimbatore — and, more relevantly to this page, someone who has decided that **testing is not the fallback plan for people who "couldn't become developers."** It's a discipline of its own: precision over speed, skepticism over assumption, and protecting the person on the other end of the screen who never asked to debug your app for you.
 
@@ -25,12 +25,12 @@ Right now I test manually — deliberately, thoroughly, and with a written trail
 If you're a recruiter: I'm looking for an entry-level QA / Manual Testing role. If you're a hiring manager: the case studies below are real work, not tutorial screenshots — including an honest account of what my automation framework does and doesn't have yet. If you're a fellow tester: I'd genuinely like to hear how you structure your test suites.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0073CF,50:F9CC00,100:E3000F&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:39FF14,100:008F11&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 Currently Leveling Up
+## 🟢 Currently Leveling Up
 
 This isn't a finished skill list — it's a live roadmap.
 
@@ -46,57 +46,57 @@ SDET-style Automation Suite     [███░░░░░░░░░░░░�
 ```
 
 <div align="center">
-<img src="https://img.shields.io/badge/Solid_Ground-E3000F?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/First_Framework_Shipped-0073CF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Solid_Ground-008F11?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/First_Framework_Shipped-00FF41?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Just_Started-808080?style=flat-square&logoColor=white" />
 </div>
 
 **Next milestones:** refactor the ParaBank scripts into Page Object Model → add pytest and proper assertions/reporting → data-driven testing → CI pipeline.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3000F,50:F9CC00,100:0073CF&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:008F11,50:39FF14,100:00FF41&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 Tech Stack & Tools
+## 🟢 Tech Stack & Tools
 
 **Testing & QA**
 
-<img src="https://img.shields.io/badge/Manual_Testing-E3000F?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/Test_Case_Design-0073CF?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-E3000F?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-0073CF?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Manual_Testing-008F11?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/Test_Case_Design-008F11?style=for-the-badge&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-008F11?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-008F11?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-E3000F?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0073CF?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E3000F?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0073CF?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-008F11?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-008F11?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-008F11?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-008F11?style=for-the-badge&logo=css3&logoColor=white" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Git-0C0C0C?style=for-the-badge&logo=git&logoColor=E3000F" />
-<img src="https://img.shields.io/badge/GitHub-0C0C0C?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-0C0C0C?style=for-the-badge&logo=microsoftexcel&logoColor=0073CF" />
-<img src="https://img.shields.io/badge/Figma-0C0C0C?style=for-the-badge&logo=figma&logoColor=E3000F" />
-<img src="https://img.shields.io/badge/Photoshop-0C0C0C?style=for-the-badge&logo=adobephotoshop&logoColor=0073CF" />
+<img src="https://img.shields.io/badge/Git-0D0208?style=for-the-badge&logo=git&logoColor=008F11" />
+<img src="https://img.shields.io/badge/GitHub-0D0208?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-0D0208?style=for-the-badge&logo=microsoftexcel&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Figma-0D0208?style=for-the-badge&logo=figma&logoColor=008F11" />
+<img src="https://img.shields.io/badge/Photoshop-0D0208?style=for-the-badge&logo=adobephotoshop&logoColor=00FF41" />
 
 **Automation Track**
 
-<img src="https://img.shields.io/badge/Selenium_WebDriver-E3000F?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/webdriver--manager-0073CF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium_WebDriver-008F11?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/webdriver--manager-008F11?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTest-Next_Up-808080?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Page_Object_Model-Next_Up-808080?style=for-the-badge&logoColor=white" />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0073CF,50:F9CC00,100:E3000F&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:39FF14,100:008F11&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 Featured Case Study — OrangeHRM Manual Testing Project
+## 🟢 Featured Case Study — OrangeHRM Manual Testing Project
 
 Most portfolios show finished code. This one shows finished **scrutiny.**
 
@@ -120,14 +120,14 @@ I ran a full manual QA cycle against [OrangeHRM](https://www.orangehrm.com/), a 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/OrangeHRM-Manual-Testing-Project">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-E3000F?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-008F11?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-## 🦸 Case Study — Tichi QA Intern Technical Assignment
+## 🟢 Case Study — Tichi QA Intern Technical Assignment
 
 A timed, independent assignment — no walkthrough given, no modules pre-defined for me. I had to explore the application cold, decide what mattered, and deliver against a real deadline.
 
@@ -151,14 +151,14 @@ I tested three modules of the Tichi web app: **Sign Up**, a two-page **Sign In**
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/Tichi-QA-Intern-Assignment">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-0073CF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-008F11?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 <br/>
 
-## 🦸 Case Study — ParaBank Selenium Automation Framework
+## 🟢 Case Study — ParaBank Selenium Automation Framework
 
 My first step from manual testing into automation — built to actually ship something working end-to-end under a tight deadline, not to look impressive on paper. So here's the honest version: this is **7 standalone Python scripts, not a framework in the Page Object Model sense** — no POM, no pytest yet. Each script handles one ParaBank module independently, with its own driver setup, actions, and assertions. That was a deliberate scope call to finish a complete, working suite first and build structure around it next, rather than stall on architecture before anything ran end-to-end.
 
@@ -180,7 +180,7 @@ My first step from manual testing into automation — built to actually ship som
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk/ParaBank-Selenium-Automation-Framework">
-  <img src="https://img.shields.io/badge/View_Full_Case_Study-F9CC00?style=for-the-badge&logo=github&logoColor=0C0C0C" />
+  <img src="https://img.shields.io/badge/View_Full_Case_Study-39FF14?style=for-the-badge&logo=github&logoColor=0D0208" />
 </a>
 
 </div>
@@ -188,16 +188,16 @@ My first step from manual testing into automation — built to actually ship som
 *More case studies are coming as I level up into automation — the next one on this page will have Page Object Model and pytest behind it, not just flat scripts.*
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3000F,50:F9CC00,100:0073CF&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:008F11,50:39FF14,100:00FF41&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 GitHub Stats & Activity
+## 🟢 GitHub Stats & Activity
 
 <div align="center">
 
-<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=E3000F&fire=E3000F&currStreakLabel=0073CF&sideLabels=0073CF&dates=888888&cache_seconds=0&v=10" />
+<img height="165" src="https://streak-stats.demolab.com/?user=prabuuu-afk&theme=transparent&hide_border=true&ring=008F11&fire=008F11&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888&cache_seconds=0&v=10" />
 
 <br/>
 
@@ -211,39 +211,39 @@ My first step from manual testing into automation — built to actually ship som
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=E3000F&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=prabuuu-afk&style=for-the-badge&color=008F11&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0073CF,50:F9CC00,100:E3000F&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF41,50:39FF14,100:008F11&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 Certifications
+## 🟢 Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Course_on_Python-LIVE_WIRE_%7C_Jul_2023-E3000F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Course_on_Python-LIVE_WIRE_%7C_Jul_2023-008F11?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Webinar_on_Gen_AI-CIT_CRYPTERA_2024_%7C_Mar_2024-0073CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webinar_on_Gen_AI-CIT_CRYPTERA_2024_%7C_Mar_2024-008F11?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Intro_to_Prompt_Engineering-Simplilearn_%7C_Jan_2026-E3000F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Intro_to_Prompt_Engineering-Simplilearn_%7C_Jan_2026-008F11?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Foundations_of_Prompt_Engineering-AWS_Skill_Builder_%7C_Jun_2026-0073CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Foundations_of_Prompt_Engineering-AWS_Skill_Builder_%7C_Jun_2026-008F11?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Introduction_to_JIRA-Simplilearn_%7C_Jun_2026-E3000F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Introduction_to_JIRA-Simplilearn_%7C_Jun_2026-008F11?style=for-the-badge" />
 <br/>
-<img src="https://img.shields.io/badge/Automation_Testing_for_Beginners-Simplilearn_%7C_Aug_2026-0073CF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation_Testing_for_Beginners-Simplilearn_%7C_Aug_2026-008F11?style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## 🦸 QA Philosophy
+## 🟢 QA Philosophy
 
 > "Untested code is a hypothesis. A test case is how you find out if you were wrong before your users do."
 
@@ -253,23 +253,26 @@ A few things I hold to:
 - If a bug is easy to find, assume there are three harder ones hiding behind it.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E3000F,50:F9CC00,100:0073CF&height=4&width=100%25" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:008F11,50:39FF14,100:00FF41&height=4&width=100%25" width="100%" />
 </div>
 
 <br/>
 
-## 🦸 Let's Connect
+## 🟢 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/prabuuu-afk">
-  <img src="https://img.shields.io/badge/GitHub-0C0C0C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0D0208?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
+<a href="https://naveen-prabu-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-008F11?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/naveen-prabu-p-8b4a78413/">
-  <img src="https://img.shields.io/badge/LinkedIn-0073CF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-008F11?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:naveenprabupanneer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E3000F?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-008F11?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -278,11 +281,11 @@ A few things I hold to:
 
 <div align="center">
 
-🦸
+🟢
 
 <sub>Every bug I find is one your users never will.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0073CF,25:F9CC00,50:E3000F,75:F9CC00,100:0073CF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,25:39FF14,50:008F11,75:39FF14,100:00FF41&height=100&section=footer" width="100%" />
 
 </div>
 
@@ -291,7 +294,7 @@ A few things I hold to:
 <details>
 <summary><sub>⚙️ Setup Notes (for repo owner — not part of the visible profile)</sub></summary>
 
-**Username:** All widgets above use `prabuuu-afk`. If reused for a different account, swap that string everywhere it appears (typing SVG, streak stats, visitor counter, snake image paths, all three case-study repo links).
+**Username:** All widgets above use `prabuuu-afk`. If reused for a different account, swap that string everywhere it appears (typing SVG, streak stats, visitor counter, snake image paths, all three case-study repo links, portfolio link).
 
 **Snake animation:** Working — points to `raw.githubusercontent.com/prabuuu-afk/prabuuu-afk/output/...svg` on the `output` branch, generated by the Platane/snk GitHub Action. If it ever breaks, check the Actions tab for a green run and confirm the `output` branch still has both `.svg` files.
 
@@ -301,7 +304,7 @@ A few things I hold to:
 
 **Honesty in the ParaBank case study — don't "polish" this without checking first:** the write-up deliberately states there's no POM/pytest/reporting. If you upgrade the actual code later (add POM, pytest, CI), update this section to match — don't describe capabilities the repo doesn't actually have. A README overstating a project is exactly the kind of mismatch that gets caught in a technical interview.
 
-**Palette:** Superman theme — blue `0073CF`, red `E3000F`, gold `F9CC00`, near-black `0C0C0C` for tool badges. Header/footer gradients cycle blue → gold → red → gold → blue; thin tri-color divider bars separate every major section.
+**Palette:** Hacker-green / Matrix theme — neon green `00FF41` (gradients, dividers, typing text), terminal green `008F11` (badge backgrounds), signal green `39FF14` (gradient highlight), near-black `0D0208` (badge backgrounds on the Tools row). Badge backgrounds intentionally use the darker `008F11`/`0D0208` rather than the brighter `00FF41` — white text on the brightest green has poor contrast, so the brightest shade is reserved for gradients, dividers, and the typing-SVG text color where it reads against a dark/transparent surface.
 
 **Footer/header gradients:** Use `capsule-render.vercel.app` (not `.vercel.co` — that's a typo that breaks the image).
 
